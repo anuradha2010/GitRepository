@@ -4,4 +4,5 @@ public class GitTestApp {
 	void method() {
 	System.out.println("Hi Bug FIX 1");
 	}
+	//in test
 }
