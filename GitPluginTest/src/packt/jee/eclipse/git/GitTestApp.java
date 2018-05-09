@@ -12,6 +12,7 @@ public class GitTestApp {
  Chapter 1
 Once upon a time...
 Il était une fois
+Es war einmal	
 
 Chapter 2
 To be or not to be
