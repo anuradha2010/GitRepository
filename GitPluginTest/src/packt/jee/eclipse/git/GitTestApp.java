@@ -5,8 +5,10 @@ public class GitTestApp {
 	System.out.println("Hi Bug FIX1 ");
 	System.out.println("Hi Bug FIX2");
 	System.out.println("while the branch of mine was cherrypicking");
+	System.out.println("from test cherrypicking branch");
 	}
 //in test
+	//checking for canceling the change
 }
 
 /*
