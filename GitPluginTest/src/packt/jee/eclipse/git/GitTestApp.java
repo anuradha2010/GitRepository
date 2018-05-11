@@ -4,6 +4,7 @@ public class GitTestApp {
 	void method() {
 	System.out.println("Hi Bug FIX1 ");
 	System.out.println("Hi Bug FIX2");
+	System.out.println("while the branch of mine was cherrypicking");
 	}
 //in test
 }
